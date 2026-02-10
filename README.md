@@ -5,7 +5,10 @@ A simple React application that helps parents manage and track a list of back-to
 This project is designed to demonstrate **core React fundamentals** using a practical, real-world example.
 
 ---
+## 🔗 Link to live demo: 
+https://t3v8tw-3000.csb.app/
 
+---
 ## 🚀 Features
 
 - Add and manage back-to-school items
@@ -39,19 +42,18 @@ This project showcases fundamental React concepts, including:
 ---
 
 ## 📂 Project Structure
-public/
-├── index.html
-src/
-│── components/
-│   ├── App.js
-│   ├── Form.js
-│   ├── Item.js
-│   ├── Logo.js
-│   ├── PackingList.js
-│   ├── Stats.js
-│── index.js
-│── index.css
+* public/
+   * index.html
+* src/
+   * components/
+      - App.js
+      - Form.js
+      - Item.js
+      - Logo.js
+      - PackingList.js
+      - Stats.js
+  * index.js
+  * index.css
 
----
-## 🔗 Link to live demo: 
-https://t3v8tw-3000.csb.app/
+
+
